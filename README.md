@@ -1,6 +1,6 @@
-# Tipificación inteligente de casos de post-venta bancaria con LLM
+# Tipificación inteligente de casos de post-venta con LLM
 
-Proyecto personal de exploración de **LLMs, AI Engineering y automatización inteligente** aplicado a la clasificación y tipificación de casos de post-venta bancaria.
+Proyecto personal de exploración de **LLMs, AI Engineering y automatización inteligente** aplicado a la clasificación y tipificación de casos de post-venta.
 
 El proyecto parte de una problemática común en procesos operativos: información que debe ser leída, interpretada y tipificada manualmente por analistas.
 
@@ -484,8 +484,8 @@ clasificador_postventa/
 │   │
 │   └── llm/
 │       ├── base.py
-│       ├── mock.py
-│       ├── ollama.py
+│       ├── mock_client.py
+│       ├── ollama_client.py
 │       ├── openai_compat_client.py
 │       └── factory.py
 │
@@ -547,7 +547,7 @@ Ejecutar con Ollama:
 
 ```bash
 ollama serve
-ollama pull qwen2.5:7b-instruct
+ollama pull qwen2.5:3b
 
 python scripts/run_pipeline.py \
     --datos data/raw/casos_postventa.csv \
