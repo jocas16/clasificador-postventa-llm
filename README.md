@@ -539,8 +539,8 @@ Ejecutar baseline:
 
 ```bash
 python scripts/run_pipeline.py \
-    --datos data/raw/casos_postventa.csv \
-    --provider mock
+    --provider mock \
+    --muestra 10
 ```
 
 Ejecutar con Ollama:
@@ -550,8 +550,8 @@ ollama serve
 ollama pull qwen2.5:3b
 
 python scripts/run_pipeline.py \
-    --datos data/raw/casos_postventa.csv \
     --provider ollama \
+    --muestra 10 \
     --workers 2
 ```
 
