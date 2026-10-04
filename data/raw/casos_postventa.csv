@@ -1,0 +1,101 @@
+id_caso,fecha,canal,texto_caso,categoria_real,subcategoria_real,prioridad_real,taxonomy_version
+CASO_00084,2026-02-12,Call Center,Quiero actualizar mi telefono y correo registrados. No se que hacer.,Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00054,2026-07-17,App,necesito cambiar mi direccion en el banco. es urgente para mi.,Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00071,2026-03-08,WhatsApp,Pido el extorno del reembolso pendiente. Necesito ayuda.,Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00046,2026-03-09,App,Mi saldo no coincide con mis movmientos.,Cuenta,Problema con cuenta,MEDIA,v1.0
+CASO_00045,2026-08-05,App,Solicite mi tarjeta hace tres semanas y aun no me llega. Esto ocurrio hoy.,Tarjetas,Tarjeta no recibida,MEDIA,v1.0
+CASO_00040,2026-01-26,App,Mi tarjeta debia llegar y todavia no la recibo.,Tarjetas,Tarjeta no recibida,MEDIA,v1.0
+CASO_00023,2026-08-12,Call Center,Quisiera informacion. Necesito ayda.,Otros,No clasificable,BAJA,v1.0
+CASO_00081,2026-07-11,Call Center,El app no carga la pantalla de movimientos. Es urgente para mi.,Canales digitales,Error en aplicación,MEDIA,v1.0
+CASO_00011,2026-01-15,App,"Solicito la devolucion del cobro indebido. Por favor, necesito una solucion.",Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00001,2026-07-08,App,"tengo un problema con mi cuenta bancaria, aparece bloqueada. por favor, necesito una solucion.",Cuenta,Problema con cuenta,MEDIA,v1.0
+CASO_00019,2026-05-10,Agencia,Quisiera informacion. Es urgente para mi.,Otros,No clasificable,BAJA,v1.0
+CASO_00031,2026-03-05,WhatsApp,Mi pago fue declinado sin motivo aparente. Necesito ayuda.,Pagos,Pago rechazado,MEDIA,v1.0
+CASO_00074,2026-03-26,Call Center,"Mi tarjeta esta bloqueada y no puedo usarla. Por favor, necesito una solucion.",Tarjetas,Tarjeta bloqueada,ALTA,v1.0
+CASO_00034,2026-07-20,WhatsApp,Mi transferencia no se acredito en la cuenta destino.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00091,2026-01-23,App,El token no me llega y no puedo acceder. Es urgente para mi.,Canales digitales,Acceso y clave,MEDIA,v1.0
+CASO_00005,2026-03-30,Call Center,La aplicacion se cierra cuando intento ingresar.,Canales digitales,Error en aplicación,MEDIA,v1.0
+CASO_00077,2026-01-08,Web,"No puedo ingresar, mi clave digital no funciona. No se que hacer.",Canales digitales,Acceso y clave,MEDIA,v1.0
+CASO_00078,2026-06-09,Call Center,"Necesito cambiar mi direccion en el banco. Por favor, necesito una solucion.",Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00013,2026-06-14,Web,"Deseo cerrar mi cuenta de ahorros. Por favor, necesito una solucion.",Cuenta,Cierre de cuenta,MEDIA,v1.0
+CASO_00032,2026-01-04,Agencia,Transferi dinero y el destinatario no lo ha recibido.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00056,2026-01-10,App,Aparece una membresia que no acepte. Necesito ayuda.,Comisiones,Comisión no informada,MEDIA,v1.0
+CASO_00089,2026-04-22,App,Solicite mi tarjeta hace tres semaas y aun no me llega. No se que hacer.,Tarjetas,Tarjeta no recibida,MEDIA,v1.0
+CASO_00027,2026-05-05,App,Transferi dinero y el destinatario no lo ha recibido. Es urgente para mi.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00043,2026-08-13,App,me descontaron el mismo monto dos veces por una transferencia. es urgente para mi.,Transferencias,Transferencia duplicada,ALTA,v1.0
+CASO_00070,2026-05-10,Web,Solicito refinanciamiento para reducir mi cuota mensual. No se que hacer.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00016,2026-04-19,Call Center,"Veo una transferencia duplicada en mi cuenta, me cobraron dos veces. Necesito ayuda.",Transferencias,Transferencia duplicada,ALTA,v1.0
+CASO_00041,2026-08-14,App,Pague ayer y hasta ahora no se registra el pago. Necesito ayuda.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00097,2026-04-01,Call Center,Solicito refinanciamiento para reducir mi cuota mensual. No se que hacer.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00010,2026-04-08,App,transferi dinero y el destinatario no lo ha recibido. esto ocurrio hoy.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00073,2026-02-05,App,Aparece un cobro desconocido de S/ 350 en mi cuenta. Es urgente para mi.,Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00012,2026-08-30,Call Center,hice una sola transferencia pero aparece dos veces en mi estado de cuenta. no se que hacer.,Transferencias,Transferencia duplicada,ALTA,v1.0
+CASO_00048,2026-01-11,App,Solicito refinanciamiento para reducir mi cuota mensual. Esto ocurrio hoy.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00086,2026-04-12,Agencia,Hice una sola transferencia pero aparece dos veces en mi estado de cuenta. Esto ocurrio hoy.,Transferencias,Transferencia duplicada,ALTA,v1.0
+CASO_00029,2026-01-14,Call Center,Necesito cambiar mi direccion en el banco. No se que hacer.,Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00094,2026-07-04,Web,quiero cancelar cuenta que ya no uso. esto ocurrio hoy.,Cuenta,Cierre de cuenta,MEDIA,v1.0
+CASO_00006,2026-03-17,WhatsApp,el token no me llega y no puedo acceder. esto ocurrio hoy.,Canales digitales,Acceso y clave,MEDIA,v1.0
+CASO_00067,2026-06-26,App,solicito refinanciamiento para reducir mi cuota mensual. no se que hacer.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00066,2026-04-17,WhatsApp,pague ayer y hasta ahora no se registra el pago. esto ocurrio hoy.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00036,2026-08-07,Call Center,Deseo amortizar capital de mi credito personal.,Préstamos,Pago anticipado,BAJA,v1.0
+CASO_00017,2026-08-30,App,"No puedo pagar, la tarjeta figura como bloqueada. Esto ocurrio hoy.",Tarjetas,Tarjeta bloqueada,ALTA,v1.0
+CASO_00050,2026-03-02,WhatsApp,Solicito refinanciamiento para reducir mi cuota mensual. Esto ocurrio hoy.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00035,2026-01-15,Call Center,aparece un cobro desconocido de s/ 350 en mi cuenta. necesito ayuda.,Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00008,2026-04-27,Call Center,"No reconozco un cargo en mi cuenta, hay un consumo que no hice. Necesito ayuda.",Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00096,2026-05-29,Web,Transferi dinero y el destinatario no lo ha recibido. No se que hacer.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00028,2026-02-18,App,"Me equivoque de cuenta al transferir, necesito reversar. Necesito ayuda.",Transferencias,Transferencia con datos errados,MEDIA,v1.0
+CASO_00020,2026-04-06,WhatsApp,"aparece una membresia que no acepte. por favor, necesito una solucion.",Comisiones,Comisión no informada,MEDIA,v1.0
+CASO_00082,2026-06-16,App,Necesito ayuda por favor. Necesito ayuda.,Otros,No clasificable,BAJA,v1.0
+CASO_00026,2026-06-11,App,"necesito reprogramar mi deuda, quiero refinanciar mi prestamo. esto ocurrio hoy.",Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00063,2026-05-11,Web,El app no carga la pantalla de movimientos. No se que hacer.,Canales digitales,Error en aplicación,MEDIA,v1.0
+CASO_00014,2026-05-30,Web,"No reconozco un cargo en mi cuenta, hay un consumo que no hice. Por favor, necesito una solucion.",Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00025,2026-01-17,Web,necesito cambiar mi direccion en el banco. esto ocurrio hoy.,Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00004,2026-02-09,App,"No reconozco un cargo en mi cuenta, hay un consumo que no hice. Necesito ayuda.",Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00018,2026-02-10,Web,"Quiero cancelar cuenta que ya no uso. Por favor, necesito una solucion.",Cuenta,Cierre de cuenta,MEDIA,v1.0
+CASO_00039,2026-06-15,App,pague ayer y hasta ahora no se registra el pago. necesito ayuda.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00009,2026-08-28,Call Center,"No puedo pagar, la tarjeta figura como bloqueada. Es urgente para mi.",Tarjetas,Tarjeta bloqueada,ALTA,v1.0
+CASO_00079,2026-04-29,App,solicito la devolucion del cobro indebido.,Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00007,2026-06-19,App,mi saldo no coincide con mis movimientos. esto ocurrio hoy.,Cuenta,Problema con cuenta,MEDIA,v1.0
+CASO_00065,2026-02-07,App,"Hola Por favor, necesito una solucion.",Otros,No clasificable,BAJA,v1.0
+CASO_00037,2026-08-30,WhatsApp,Transferi diero y el destinatario no lo ha recibido. Necesito ayuda.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00090,2026-05-04,Web,Deseo amortizar capital de mi credito personal. Esto ocurrio hoy.,Préstamos,Pago anticipado,BAJA,v1.0
+CASO_00057,2026-04-09,WhatsApp,Reporto un consumo no reconocido con mi tarjeta terminada en XXXX. No se que hacer.,Tarjetas,Consumo no reconocido,ALTA,v1.0
+CASO_00100,2026-04-03,App,Deseo amortizar capital de mi credito personal.,Préstamos,Pago anticipado,BAJA,v1.0
+CASO_00055,2026-08-29,App,"Mi saldo no coincide con mis movimientos. Por favor, necesito una solucion.",Cuenta,Problema con cuenta,MEDIA,v1.0
+CASO_00044,2026-06-04,App,"Transferi a una cuenta equivocada, digite mal el numero XXXX. Por favor, necesito una solucion.",Transferencias,Transferencia con datos errados,MEDIA,v1.0
+CASO_00051,2026-04-16,WhatsApp,Hola No se que hacer.,Otros,No clasificable,BAJA,v1.0
+CASO_00068,2026-06-28,Web,La aplicacion se cierra cuando intento ingresar. No se que hacer.,Canales digitales,Error en aplicación,MEDIA,v1.0
+CASO_00047,2026-06-26,Agencia,Reporto un consumo no reconocido con mi tarjeta terminada en XXXX. Esto ocurrio hoy.,Tarjetas,Consumo no reconocido,ALTA,v1.0
+CASO_00069,2026-06-20,Call Center,Transferi dinero y el destinatario no lo ha recibido.,Transferencias,Transferencia no acreditada,ALTA,v1.0
+CASO_00062,2026-03-15,App,pido el extorno del reembolso pendiente. no se que hacer.,Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00098,2026-05-18,Agencia,aparece un cobro desconcido de s/ 350 en mi cuenta. necesito ayuda.,Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00080,2026-08-14,Web,Aparece un cobro desconocido de S/ 350 en mi cuenta. Necesito ayuda.,Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00042,2026-07-26,Call Center,Aparece un cobro desconocido de S/ 350 en mi cuenta. Esto ocurrio hoy.,Pagos,Cobro no reconocido,ALTA,v1.0
+CASO_00059,2026-08-24,Web,Deseo cerrar mi cuenta de ahorros. Es urgente para mi.,Cuenta,Cierre de cuenta,MEDIA,v1.0
+CASO_00049,2026-01-27,Web,solicito la devolucion del cobro indebido. es urgente para mi.,Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00099,2026-05-31,Agencia,Quiero actualizar mi telefono y correo registrados. Necesito ayuda.,Cuenta,Actualización de datos,BAJA,v1.0
+CASO_00058,2026-07-26,Call Center,"Intente pagar pero la operacion fue rechazada. Por favor, necesito una solucion.",Pagos,Pago rechazado,MEDIA,v1.0
+CASO_00076,2026-08-07,WhatsApp,Aparece una membresia que no acete. No se que hacer.,Comisiones,Comisión no informada,MEDIA,v1.0
+CASO_00033,2026-08-10,Web,Solicito la devolucion del cobro indebido. Necesito ayuda.,Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00095,2026-04-25,WhatsApp,"Necesito reprogramar mi deuda, quiero refinanciar mi prestamo. Por favor, necesito una solucion.",Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00060,2026-06-20,Web,"Mi tarjeta debia llegar y todavia no la recibo. Por favor, necesito una solucion.",Tarjetas,Tarjeta no recibida,MEDIA,v1.0
+CASO_00064,2026-03-27,App,"Solicito la devolucion del cobro indebido. Por favor, necesio una solucion.",Comisiones,Solicitud de devolución,MEDIA,v1.0
+CASO_00085,2026-03-21,App,quisiera informacion.,Otros,No clasificable,BAJA,v1.0
+CASO_00038,2026-03-22,Agencia,El pago sigue pendiente y no se refleja en el sistea. Esto ocurrio hoy.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00030,2026-08-09,App,Hola,Otros,No clasificable,BAJA,v1.0
+CASO_00002,2026-02-25,App,deseo cerrar mi cuenta de ahorros. esto ocurrio hoy.,Cuenta,Cierre de cuenta,MEDIA,v1.0
+CASO_00053,2026-02-28,App,Pague ayer y hasta ahora no se registra el pago. Es urgente para mi.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00022,2026-05-05,WhatsApp,necesito ayuda por favor. ncesito ayuda.,Otros,No clasificable,BAJA,v1.0
+CASO_00003,2026-02-26,Web,"Tengo un problema con mi cuenta bancaria, aparece bloqueada. Por favor, necesito una solucion.",Cuenta,Problema con cuenta,MEDIA,v1.0
+CASO_00024,2026-04-13,Agencia,"Quisiera informacion. Por favor, necesito una solucion.",Otros,No clasificable,BAJA,v1.0
+CASO_00088,2026-01-18,Web,"Transferi a una cuenta equivocada, digite mal el numero XXXX. Es urgente para mi.",Transferencias,Transferencia con datos errados,MEDIA,v1.0
+CASO_00092,2026-01-08,Web,Mi cronograma de prestamo no coincide con lo pactado. Esto ocurrio hoy.,Préstamos,Problema con préstamo,MEDIA,v1.0
+CASO_00075,2026-08-31,Call Center,"Hay consumos con mi tarjeta que no reconozco, creo que la clonaron. No se que hacer.",Tarjetas,Consumo no reconocido,ALTA,v1.0
+CASO_00087,2026-06-25,Call Center,El pago sigue pendiente y no se refleja en el sistema.,Pagos,Pago demorado,MEDIA,v1.0
+CASO_00083,2026-03-03,App,"Veo una transferencia duplicada en mi cuenta, me cobraron dos veces. Necesito ayuda.",Transferencias,Transferencia duplicada,ALTA,v1.0
+CASO_00021,2026-08-26,Web,quiero adelantar cuotas de mi prestamo. esto ocurrio hoy.,Préstamos,Pago anticipado,BAJA,v1.0
+CASO_00061,2026-04-08,Call Center,Reporto un consumo no reconocido con mi tarjeta terminada en XXXX. Esto ocurrio hoy.,Tarjetas,Consumo no reconocido,ALTA,v1.0
+CASO_00072,2026-04-23,App,el token no me llega y no puedo acceder. esto ocurrio hoy.,Canales digitales,Acceso y clave,MEDIA,v1.0
+CASO_00015,2026-05-07,App,solicito refinanciamiento para reducir mi cuota mensual. necesito ayuda.,Préstamos,Refinanciamiento,MEDIA,v1.0
+CASO_00093,2026-03-13,WhatsApp,Solicite mi tarjeta hace tres semanas y aun no me llega. Necesito ayuda.,Tarjetas,Tarjeta no recibida,MEDIA,v1.0
+CASO_00052,2026-01-10,WhatsApp,Me cobraron una comision de mantenimiento que nadie me informo. Es ugente para mi.,Comisiones,Comisión no informada,MEDIA,v1.0

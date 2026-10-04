@@ -1,0 +1,88 @@
+version: v1.0
+umbral_confianza: 0.70
+categorias:
+  Transferencias:
+    descripcion: Envio o recepcion de dinero entre cuentas propias o de terceros.
+    subcategorias:
+      - nombre: Transferencia duplicada
+        prioridad_sugerida: ALTA
+        senales: [duplicada, doble cobro, se envio dos veces]
+      - nombre: Transferencia no acreditada
+        prioridad_sugerida: ALTA
+        senales: [no llego, no se acredito, destinatario no recibio]
+      - nombre: Transferencia con datos errados
+        prioridad_sugerida: MEDIA
+        senales: [cuenta equivocada, numero mal digitado]
+  Pagos:
+    descripcion: Pagos de servicios, POS, debitos y cobros.
+    subcategorias:
+      - nombre: Pago rechazado
+        prioridad_sugerida: MEDIA
+        senales: [rechazado, no se proceso, declinado]
+      - nombre: Pago demorado
+        prioridad_sugerida: MEDIA
+        senales: [pendiente, aun no se refleja, demora]
+      - nombre: Cobro no reconocido
+        prioridad_sugerida: ALTA
+        senales: [no reconozco, cargo desconocido, consumo ajeno]
+  Tarjetas:
+    descripcion: Tarjetas de credito y debito, entrega, bloqueo y consumos.
+    subcategorias:
+      - nombre: Tarjeta no recibida
+        prioridad_sugerida: MEDIA
+        senales: [no me llega, aun no recibo, entrega]
+      - nombre: Tarjeta bloqueada
+        prioridad_sugerida: ALTA
+        senales: [bloqueada, no puedo usar, inhabilitada]
+      - nombre: Consumo no reconocido
+        prioridad_sugerida: ALTA
+        senales: [no reconozco el consumo, fraude, clonacion]
+  Préstamos:
+    descripcion: Créditos personales, vehiculares e hipotecarios.
+    subcategorias:
+      - nombre: Problema con préstamo
+        prioridad_sugerida: MEDIA
+        senales: [cuota mal calculada, cronograma, credito]
+      - nombre: Pago anticipado
+        prioridad_sugerida: BAJA
+        senales: [adelantar cuotas, prepago, amortizar]
+      - nombre: Refinanciamiento
+        prioridad_sugerida: MEDIA
+        senales: [reprogramar, refinanciar, reducir cuota]
+  Cuenta:
+    descripcion: Apertura, cierre, estados de cuenta y datos del cliente.
+    subcategorias:
+      - nombre: Problema con cuenta
+        prioridad_sugerida: MEDIA
+        senales: [cuenta bloqueada, saldo, estado de cuenta]
+      - nombre: Actualización de datos
+        prioridad_sugerida: BAJA
+        senales: [cambiar direccion, actualizar telefono, correo]
+      - nombre: Cierre de cuenta
+        prioridad_sugerida: MEDIA
+        senales: [cerrar cuenta, cancelar cuenta]
+  Canales digitales:
+    descripcion: App movil, banca por internet y autenticacion.
+    subcategorias:
+      - nombre: Error en aplicación
+        prioridad_sugerida: MEDIA
+        senales: [se cierra, no carga, error, pantalla]
+      - nombre: Acceso y clave
+        prioridad_sugerida: MEDIA
+        senales: [no puedo ingresar, clave, token, bloqueo de usuario]
+  Comisiones:
+    descripcion: Cobros por mantenimiento, membresias e intereses.
+    subcategorias:
+      - nombre: Comisión no informada
+        prioridad_sugerida: MEDIA
+        senales: [comision, mantenimiento, membresia]
+      - nombre: Solicitud de devolución
+        prioridad_sugerida: MEDIA
+        senales: [devolucion, reembolso, extorno]
+  Otros:
+    descripcion: Casos que no encajan en ninguna categoria anterior o texto insuficiente.
+    subcategorias:
+      - nombre: No clasificable
+        prioridad_sugerida: BAJA
+        senales: []
+prioridades: [ALTA, MEDIA, BAJA]
